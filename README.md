@@ -2,6 +2,8 @@
 
 I purchased [this](https://www.amazon.com/gp/product/B09SG8TLQ1/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) with the intent of doing some image recognition things with it.  Unfortunately, a lot of the packages the default drivers depend on have changed since they were written and Adeept had not yet updated their sample code, so I re-wrote it.  Figured I would put it out there in case somebody else ends up in the same boat.
 
+If you're looking for batteries, try [these](https://www.amazon.com/gp/product/B0B145KQGY/).
+
 ## Installing and Running
 ### Install Adafruit Servokit
 Run `sudo pip3 install adafruit-circuitpython-servokit`
